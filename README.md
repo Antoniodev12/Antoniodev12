@@ -1,4 +1,4 @@
-## Olá eu sou o Antoniodev12.
+## Olá, eu sou o Antoniodev12.
 
 
 - 🔭 Atualmente estou aprendendo beck-end.
