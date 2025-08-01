@@ -12,6 +12,13 @@ sou programador em treinamento, estou me aperfeiçoando na parte de back-end, te
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]
 [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]
 
+### Secundaria.
+[![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]
+
+
+### Metódologias:
+
+Kanban
+
 ### Meus estatus
 ![Antoniodev12 GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoniodev12&show_icons=true&theme=radical)
-
