@@ -1,7 +1,7 @@
 ### Olá, eu sou o Antoniodev12.
 
 ## Sobre: 
-sou programador em treinamento, estou me aperfeiçoando na parte de back-end, tenho cerca de 5 anos estuando programação. Tenho curso tecnico em desevolvimento de web.
+sou programador em treinamento, estou me aperfeiçoando na parte de back-end, tenho cerca de 5 anos estuando programação. Tenho curso tecnico em desevolvimento de programação web.
 
 ### Principais tecnologias.
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,3 +22,4 @@ Kanban
 
 ### Meus estatus
 ![Antoniodev12 GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoniodev12&show_icons=true&theme=radical)
+
