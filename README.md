@@ -1,7 +1,7 @@
 ### Olá, eu sou o Antoniodev12.
 
 ## Sobre: 
-Sou desenvolvedor com experiência prática em front-end e atualmente aprofundando meus conhecimentos em back-end. Ao longo dos últimos 5 anos, venho construindo projetos pessoais, estudando tecnologias web e me aperfeiçoando como desenvolvedor full stack.
+Sou desenvolvedor com experiência prática em front-end e atualmente aprofundando meus conhecimentos em back-end. Ao longo dos últimos 5 anos, venho construindo projetos pessoais, estudando tecnologias web e me aperfeiçoando como desenvolvedor.
 
 ### Principais tecnologias.
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
