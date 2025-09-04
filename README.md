@@ -24,3 +24,6 @@ Kanban
 ### Meus estatus
 ![Antoniodev12 GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoniodev12&show_icons=true&theme=radical)
 
+###Link para ver meu portfolio:
+https://meuport-bice.vercel.app/
+
